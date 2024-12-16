@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: databaseautomation
 Version: 0.0.4
-Summary: A python package for connecting with database.
-Home-page: https://github.com/sunnysavita10/mongodbconnectorpkg
-Author: sunnysavita10
-Author-email: sunny.savita@ineuron.ai
+Summary: A light python package for connecting with database.
+Home-page: https://github.com/RiH-137/MongoDB-Python-Connector-Package-PYPI
+Author: RiH-137
+Author-email: 101rishidsr@gmail.com
 License: MIT
-Project-URL: Bug Tracker, https://github.com/sunnysavita10/mongodbconnectorpkg/issues
+Project-URL: Bug Tracker, https://github.com/RiH-137/MongoDB-Python-Connector-Package-PYPI/issues
 Classifier: Programming Language :: Python :: 3.7
 Classifier: Programming Language :: Python :: 3.8
 Classifier: Programming Language :: Python :: 3.9
@@ -20,6 +20,13 @@ Requires-Dist: mypy>=0.971; extra == "testing"
 Requires-Dist: flake8>=5.0.4; extra == "testing"
 Requires-Dist: tox>=3.25.1; extra == "testing"
 Requires-Dist: black>=22.8.0; extra == "testing"
+
+## Database Automation
+
+
+### Problem Statement
+ Building a python package + mongodb
+
 
 # requirements_dev.txt we use for the testing
 It makes it easier to install and manage dependencies for development and testing, separate from the dependencies required for production.
